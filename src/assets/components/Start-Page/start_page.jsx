@@ -8,7 +8,9 @@ export default class startPage extends React.Component {
         return (
             <div className="container">
                 <div className="bubble">
+
                     <h1 className="startbubble">Get Started!</h1>
+
                 </div>
             </div>
         )

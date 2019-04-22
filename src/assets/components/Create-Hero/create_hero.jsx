@@ -5,6 +5,10 @@ import scss from "../../styles/main.scss";
 export default class createHero extends React.Component {
     render() {
         return (
+                <>
+                    <div className="objectName">Hero Name</div>
+
+
             <>
             <div className="createhero_flex">
                 <>
@@ -18,7 +22,7 @@ export default class createHero extends React.Component {
             <>
 
 
-                <form>
+                <form className="heroForm">
                     <div className="form-group c_un_mar">
                         <label htmlFor="exampleFormControlInput1">Hero Name</label>
                         <input type="email" className="form-control" id="exampleFormControlInput1"
@@ -40,13 +44,14 @@ export default class createHero extends React.Component {
                         <label htmlFor="exampleFormControlTextarea1">Description</label>
                         <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                     </div>
-
+                    <div className="doneBtn">Done!</div>
                 </form>
 
 
             </>
                 </div>
                 </>
+                    </>
         )
     }
 }

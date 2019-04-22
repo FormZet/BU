@@ -8,7 +8,10 @@ export default class createUniverse extends React.Component {
     render() {
         return (
             <>
-            <h1>Create Universe</h1>
+                <div className="container">
+                    <>
+
+            <h1 className="title">Create Universe</h1>
 
             <form>
                 <div className="form-group c_un_mar">
@@ -16,7 +19,8 @@ export default class createUniverse extends React.Component {
                     <input type="email" className="form-control" id="exampleFormControlInput1"
                            placeholder="how u will call it?"/>
                 </div>
-                <label htmlFor="exampleFormControlInput1">Universe Scale</label><br></br>
+                <div className="tyanem">
+                <label className="title" htmlFor="exampleFormControlInput1">Universe Scale</label><br></br>
                 <div className="form-check form-check-inline c_un_mar">
                     <input className="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1"
                            value="option1"/>
@@ -32,6 +36,7 @@ export default class createUniverse extends React.Component {
                            value="option3"/>
                         <label className="form-check-label" htmlFor="inlineRadio3">high</label>
                 </div>
+                </div>
                 <div className="form-group c_un_mar">
                     <label htmlFor="exampleFormControlTextarea1">Description</label>
                     <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
@@ -39,8 +44,15 @@ export default class createUniverse extends React.Component {
                 <div className="custom-file c_un_mar">
                     <input type="file" className="custom-file-input" id="customFile"/>
                         <label className="custom-file-label" htmlFor="customFile">Choose file</label>
+                    <div className="doneButton" >
+                     <div className="doneBtn">Done!</div>
+                    </div>
                 </div>
+
+
             </form>
+            </>
+                </div>
                 </>
         )
     }
