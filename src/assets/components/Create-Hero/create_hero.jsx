@@ -2,7 +2,7 @@ import React from "react";
 import scss from "../../styles/main.scss";
 
 
-export default class createHero extends React.Component {
+export default class CreateHero extends React.Component {
     render() {
         return (
                 <>

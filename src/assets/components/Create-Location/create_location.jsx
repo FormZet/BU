@@ -3,7 +3,7 @@ import scss from "../../styles/main.scss";
 
 
 
-export default class createLocation extends React.Component {
+export default class CreateLocation extends React.Component {
     render() {
         return (
             <>

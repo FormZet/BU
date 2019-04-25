@@ -3,7 +3,7 @@ import scss from "../../styles/main.scss";
 
 
 
-export default class createUniverse extends React.Component {
+export default class CreateUniverse extends React.Component {
 
     render() {
         return (
