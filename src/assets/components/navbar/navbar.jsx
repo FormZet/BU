@@ -1,4 +1,3 @@
-/*
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
 
@@ -6,18 +5,30 @@ export default class Navbar extends Component {
 	render(){
 		return(
 			<nav className="navbar navbar-expand-lg navbar-light bg-light">
-			  <Link to={'/'} className="navbar-brand" >{this.state.appName}</Link>
+			  <Link to={'/'} className="navbar-brand" >{this.appName}</Link>
 	
 			  <div className="collapse navbar-collapse" id="navbarSupportedContent">
 			    <ul className="navbar-nav mr-auto">
 			      <li className="nav-item active">
-			        <Link to={'/heroList'} className="nav-link">Heroes List<span className="sr-only">(current)</span></Link>
+                      <Link to={'/'} className="nav-link">Start Page</Link>
 			        </li>
 			      <li className="nav-item">
-			        <Link to={'/modalPage'} className="nav-link">Modal-Page</Link>
+			        <Link to={'/createHero'} className="nav-link">CreateHero</Link>
 			      </li>
+					<li className="nav-item">
+						<Link to={'/createUniverse'} className="nav-link">CreateUniverse</Link>
+					</li>
+					<li className="nav-item">
+						<Link to={'/createLocation'} className="nav-link">CreateLoc</Link>
+					</li>
+                    <li className="nav-item">
+                        <Link to={'/heroList'} className="nav-link">Top CreationsHero<span className="sr-only">(current)</span></Link>
+                    </li>
+					<li className="nav-item">
+						<Link to={'/LocationList'} className="nav-link">Top CreationsLoc<span className="sr-only">(current)</span></Link>
+					</li>
 			      <li className="nav-item">
-			        <Link to={'/addHero'} className="nav-link">Add Hero</Link>
+			        <Link to={'/myBlank'} className="nav-link">My Blank</Link>
 			      </li>
 			    </ul>
 			  </div>
@@ -26,4 +37,3 @@ export default class Navbar extends Component {
 	}
 }
 
-*/

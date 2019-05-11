@@ -2,14 +2,209 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40f22e8a-a2da-4571-af53-5e47a6289efa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/argon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/bootstrap/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/alerts/_alert-dismissible.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/alerts/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/avatars/_avatar-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/avatars/_avatar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/badges/_badge-circle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/badges/_badge-dot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/badges/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/buttons/_button-brand.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/buttons/_button-icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/buttons/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/cards/_card-animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/cards/_card-blockquote.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/cards/_card-profile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/cards/_card-stats.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/cards/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/charts/_chart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/close/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/custom-forms/_custom-checkbox.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/custom-forms/_custom-control.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/custom-forms/_custom-form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/custom-forms/_custom-radio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/custom-forms/_custom-toggle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/dropdowns/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/footers/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/forms/_form-validation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/forms/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/forms/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/headers/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/icons/_icon-shape.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/icons/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/list-groups/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/maps/_map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/masks/_mask.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/mixins/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/mixins/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/mixins/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/modals/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/navbars/_navbar-collapse.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/navbars/_navbar-dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/navbars/_navbar-search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/navbars/_navbar-vertical.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/navbars/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/navs/_nav-pills.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/navs/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/paginations/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/popovers/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/progresses/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/separators/_separator.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/tables/_table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/type/_article.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/type/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/type/_heading.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/type/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_backgrounds.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_blurable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_floating.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_helper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_opacity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/utilities/_transform.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/vendors/_bootstrap-datepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/vendors/_headroom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/vendors/_nouislider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/core/vendors/_scrollbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_avatar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_chart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_mask.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_separator.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/lib/custom/_vendors.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/components/Create-Hero/create_hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/Create-Hero/create_hero.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/components/Create-Location/create_location.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/Create-Location/create_location.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/components/Create-Universe/create_universe.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/Create-Universe/create_universe.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/components/Hero-Card/hero_card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/Hero-Card/hero_card.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/components/Heroes-List/heroes_list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/Heroes-List/heroes_list.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/components/Location-List/location_list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/Location-List/location_list.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/components/My-Blank/my_blank.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/My-Blank/my_blank.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/components/Start-Page/start_page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/Start-Page/start_page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/components/navbar/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/components/navbar/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/main.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,13 +218,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/components/Start-Page/start_page.jsx">
+        <entry file="file://$PROJECT_DIR$/src/assets/components/Heroes-List/heroes_list.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="336">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/styles/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -37,53 +250,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/components/Create-Universe/create_universe.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="70" column="59" lean-forward="true" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/components/Heroes-List/heroes_list.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/components/Create-Hero/create_hero.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="288">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -94,11 +262,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/components/Create-Location/create_location.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="211">
+              <caret line="70" column="52" lean-forward="true" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assets/components/Location-List/location_list.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -108,10 +285,32 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>div</find>
-      <find>form</find>
       <find>div clas</find>
       <find>1 rem</find>
       <find>&lt;herolist</find>
+      <find>let hero</find>
+      <find>heroList</find>
+      <find>hero_</find>
+      <find>hero_im</find>
+      <find>crea</find>
+      <find>create</find>
+      <find>card-body</find>
+      <find>con</find>
+      <find>В</find>
+      <find>locationList</find>
+      <find>newHero</find>
+      <find>props</find>
+      <find>pics</find>
+      <find>c</find>
+      <find>c_u</find>
+      <find>margin-left</find>
+      <find>label</find>
+      <find>locat</find>
+      <find>form</find>
+      <find>locationForm</find>
+      <find>createhero</find>
+      <find>STARTBU</find>
+      <find>card</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,16 +323,20 @@
         <option value="$PROJECT_DIR$/src/assets/styles/createUniverse.scss" />
         <option value="$PROJECT_DIR$/src/assets/styles/createHero.scss" />
         <option value="$PROJECT_DIR$/src/assets/styles/startPage.scss" />
-        <option value="$PROJECT_DIR$/src/assets/components/navbar/navbar.jsx" />
-        <option value="$PROJECT_DIR$/src/assets/styles/main.scss" />
-        <option value="$PROJECT_DIR$/src/assets/components/Hero-Card/hero_card.jsx" />
-        <option value="$PROJECT_DIR$/src/assets/components/Start-Page/start_page.jsx" />
-        <option value="$PROJECT_DIR$/src/assets/components/Create-Hero/create_hero.jsx" />
-        <option value="$PROJECT_DIR$/src/assets/components/Heroes-List/heroes_list.jsx" />
-        <option value="$PROJECT_DIR$/src/assets/components/Create-Universe/create_universe.jsx" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/assets/styles/lib/custom/_close.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/lib/custom/_components.scss" />
+        <option value="$PROJECT_DIR$/src/assets/components/navbar/navbar.jsx" />
         <option value="$PROJECT_DIR$/src/assets/components/Create-Location/create_location.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/components/My-Blank/my_blank.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/components/Hero-Card/hero_card.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/components/Create-Hero/create_hero.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/components/Create-Universe/create_universe.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/components/Start-Page/start_page.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/components/Heroes-List/heroes_list.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/styles/main.scss" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/assets/components/Location-List/location_list.jsx" />
       </list>
     </option>
   </component>
@@ -143,7 +346,9 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -174,6 +379,22 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Create-Location" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Location-List" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -194,6 +415,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LevonPidron\Desktop\banana\finale\blank\src\assets\styles\lib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,12 +459,20 @@
       <workItem from="1555943837660" duration="2938000" />
       <workItem from="1555961539197" duration="3336000" />
       <workItem from="1556199769228" duration="2693000" />
-      <workItem from="1556209992998" duration="1770000" />
+      <workItem from="1556209992998" duration="5446000" />
+      <workItem from="1556557303498" duration="3594000" />
+      <workItem from="1556620609142" duration="2000" />
+      <workItem from="1556946547876" duration="3409000" />
+      <workItem from="1556950879616" duration="279000" />
+      <workItem from="1557147869656" duration="2762000" />
+      <workItem from="1557156420858" duration="9182000" />
+      <workItem from="1557443983772" duration="564000" />
+      <workItem from="1557572865526" duration="6050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28296000" />
+    <option name="totallyTimeSpent" value="57814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -246,10 +480,10 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.9558824" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -263,26 +497,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24983476" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.9558824" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -299,18 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/components/Choose-Creation/choose_creation.jsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/components/Location-List/location_list.jsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/components/Main-Page/main_page.jsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/components/My-Blank/my_blank.jsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/styles/createHero.scss" />
     <entry file="file://$PROJECT_DIR$/src/assets/styles/startPage.scss" />
     <entry file="file://$PROJECT_DIR$/src/assets/styles/createUniverse.scss" />
@@ -322,13 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/components/navbar/navbar.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="106" lean-forward="true" selection-start-line="13" selection-start-column="106" selection-end-line="13" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -337,51 +532,84 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/components/Hero-Card/hero-card.jsx" />
-    <entry file="file://$PROJECT_DIR$/src/assets/styles/main.scss">
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/lib/argon.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="100" column="10" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/components/Hero-Card/hero_card.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/lib/custom/_alert.scss">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/components/Heroes-List/heroes_list.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/components/Create-Hero/create_hero.jsx">
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/lib/custom/_close.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/lib/custom/_components.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/components/Choose-Creation/choose_creation.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/components/My-Blank/my_blank.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/components/Create-Universe/create_universe.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="571">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/components/Hero-Card/hero_card.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/components/Create-Hero/create_hero.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1493">
+          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/components/navbar/navbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="134" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="134" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/components/Main-Page/main_page.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/components/Start-Page/start_page.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="240">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -390,8 +618,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state relative-caret-position="288">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/components/Heroes-List/heroes_list.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -400,21 +652,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/components/Create-Location/create_location.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="211">
+          <caret line="70" column="52" lean-forward="true" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
+    <entry file="file://$PROJECT_DIR$/src/assets/components/Location-List/location_list.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="70" column="59" lean-forward="true" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
